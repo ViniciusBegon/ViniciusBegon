@@ -14,8 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
-###
-###
+
 
 <h2 align="left">Já brinquei:</h2>
 
