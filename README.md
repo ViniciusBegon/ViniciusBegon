@@ -14,5 +14,5 @@
 
 ###
 
-<p align="left">Eu sou Vinicius, moro em Garopaba <br><br>- 🔭 Atuo como suporte técnico no momento<br>- 📚 Atualmente me aprofundando em Java<br>- ⚡ Back-end </p>
+<p align="left">Eu sou Vinicius! <br><br>- 🔭 Atuo como suporte técnico no momento<br>- 📚 Atualmente me aprofundando em Java<br>- ⚡ Back-end </p>
 
